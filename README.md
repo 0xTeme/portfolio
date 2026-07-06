@@ -3,7 +3,7 @@
 A terminal-themed, personal portfolio of a cybersecurity student to showcase skills, projects, certifications, and learning progress.
 
 ## Live Demo
-[Insert deployed URL here don't forget]
+https://temesgen-melaku.vercel.app/
 
 ## Tech Stack
 * Next.js (App Router)
